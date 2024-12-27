@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Quinten/webwolk-site#readme",
   "devDependencies": {
-    "@quinten/webwolk-lib": "^1.0.0"
+    "@quinten/webwolk-lib": "1.0.1"
   }
 }
